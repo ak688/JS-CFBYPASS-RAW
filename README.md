@@ -4,3 +4,6 @@
 <pre>apt install nodejs</pre>
 <pre>apt install npm</pre> 
 <pre>npm i cloudflare-bypasser crypto-random-string</pre>  
+  
+ <h2>How to RUN<h2\> 
+ <pre>node cf_flood.js</pre> 
